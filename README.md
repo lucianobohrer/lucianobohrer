@@ -4,7 +4,7 @@ I'm a Software Developer who loves working with mobile development.
 
 ## 👨🏻‍💻 About me
 
-- 📍 I'mliving in **Porto 🇵🇹**
+- 📍 I live in **Porto 🇵🇹**
 - :computer: My currently  main tech stack is around iOS Development also experience with RxSwift and RxCocoa for reactive programming
 - 🌱 Learning all about **SwiftUI, React, ReactJS and React Native**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current project [The Outnet](https://apps.apple.com/gb/app/the-outnet-designer-outlet/id421387883)
