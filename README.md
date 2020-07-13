@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**lucianobohrer/lucianobohrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Luciano Bohrer 👨🏻‍💻
+I'm a Software Developer who loves working with mobile development.
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@lubss-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lubss)](https://twitter.com/lubss) 
+[![Linkedin Badge](https://img.shields.io/badge/-lucianobohrer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianobohrer/)](https://www.linkedin.com/in/lucianobohrer/) [
+![Medium Badge](https://img.shields.io/badge/-@lucianobohrer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lucianobohrer/)](https://medium.com/@lucianobohrer/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📍 I'mliving in **Porto 🇵🇹**
+- :computer: My currently  main tech stack is around iOS Development also experience with RxSwift and RxCocoa for reactive programming
+- 🌱 Learning all about **SwiftUI, React, ReactJS and React Native**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current project [The Outnet](https://apps.apple.com/gb/app/the-outnet-designer-outlet/id421387883)
+
+
+### 📩 How to reach me:
+
+- My email address is *bohrerluciano@gmail.com*
