@@ -7,7 +7,7 @@ I'm a Software Developer who loves working with mobile development.
 - 📍 I live in **Porto 🇵🇹**
 - :computer: My currently  main tech stack is around iOS Development, I also have experience with RxSwift and RxCocoa for reactive programming
 - 🌱 Learning all about **SwiftUI, Vapor, ReactJS and React Native**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current project [The Outnet](https://apps.apple.com/gb/app/the-outnet-designer-outlet/id421387883)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working in [Mr. Porter](https://apps.apple.com/us/app/mr-porter-designer-fashion/id481673241) and [Net-A-Porter](https://apps.apple.com/us/app/net-a-porter-designer-fashion/id318597939) apps 
 
 
 ### 📩 How to reach me:
