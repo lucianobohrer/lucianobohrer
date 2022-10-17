@@ -6,8 +6,7 @@ I'm a Software Developer who loves working with mobile development.
 
 - 📍 I live in **Porto 🇵🇹**
 - :computer: My currently  main tech stack is around iOS Development, I also have experience with RxSwift and RxCocoa for reactive programming
-- 🌱 Learning all about **HTML/CSS/SASS, ReactJS and React Native**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working on [Fanduel Racing](https://racing.fanduel.com/) project
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working on [Waitrose](https://waitrose.com/) project
 
 
 ### 📩 How to reach me:
