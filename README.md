@@ -4,7 +4,7 @@ I'm a Software Developer who loves working with mobile development.
 
 ## 👨🏻‍💻 About me
 
-- 📍 I live in **Porto 🇵🇹**
+- 📍 I live in **Canoas 🇧🇷**
 - :computer: My currently  main tech stack is around iOS Development, I also have experience with RxSwift and RxCocoa for reactive programming
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working on [Waitrose](https://waitrose.com/) project
 
